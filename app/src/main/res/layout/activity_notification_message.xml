@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LinearLayout tools:context=".NotificationMessage" android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView android:layout_height="wrap_content" android:layout_width="match_parent" android:textStyle="bold" android:textSize="20sp" android:text="Hello" android:gravity="center" android:layout_marginTop="20dp" android:id="@+id/tv_message"/>
+
+</LinearLayout>
