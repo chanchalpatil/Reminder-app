@@ -1,4 +1,4 @@
 # Reminder-app
 Reminders App is a mobile application to set reminders of important scheduled meetings / Birthdays etc.  
-# Technologies used:
+#### Technologies used:
 Android studio, Java
